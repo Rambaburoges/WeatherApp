@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rambaburoges/WeatherApp/static/css/main.8daa3b20.chunk.css",
+    "main.js": "/Rambaburoges/WeatherApp/static/js/main.2f74bb68.chunk.js",
+    "main.js.map": "/Rambaburoges/WeatherApp/static/js/main.2f74bb68.chunk.js.map",
+    "runtime-main.js": "/Rambaburoges/WeatherApp/static/js/runtime-main.e27430c9.js",
+    "runtime-main.js.map": "/Rambaburoges/WeatherApp/static/js/runtime-main.e27430c9.js.map",
+    "static/js/2.0258b798.chunk.js": "/Rambaburoges/WeatherApp/static/js/2.0258b798.chunk.js",
+    "static/js/2.0258b798.chunk.js.map": "/Rambaburoges/WeatherApp/static/js/2.0258b798.chunk.js.map",
+    "index.html": "/Rambaburoges/WeatherApp/index.html",
+    "precache-manifest.6d2567d4bb141062bdab18c6c5384582.js": "/Rambaburoges/WeatherApp/precache-manifest.6d2567d4bb141062bdab18c6c5384582.js",
+    "service-worker.js": "/Rambaburoges/WeatherApp/service-worker.js",
+    "static/css/main.8daa3b20.chunk.css.map": "/Rambaburoges/WeatherApp/static/css/main.8daa3b20.chunk.css.map",
+    "static/js/2.0258b798.chunk.js.LICENSE.txt": "/Rambaburoges/WeatherApp/static/js/2.0258b798.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Rambaburoges/WeatherApp/static/media/warm-bg.288d5e75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e27430c9.js",
+    "static/js/2.0258b798.chunk.js",
+    "static/css/main.8daa3b20.chunk.css",
+    "static/js/main.2f74bb68.chunk.js"
+  ]
+}
